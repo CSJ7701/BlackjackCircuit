@@ -14,3 +14,9 @@ This project implements a simplified game of blackjack on the Basys 3 FPGA board
 ## Note
 
 This project is a primitive implementation for educational purposes.
+
+# Usage
+
+This project is recorded here mainly for my own posterity.
+If you would like to clone the repository, you will need to open National Instruments' Multisim Program to view or edit the .ms14 files.
+
